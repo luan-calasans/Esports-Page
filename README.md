@@ -9,6 +9,7 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li><a href="https://swiperjs.com/" target="_blank">Swiper</a></li>
 </ul>
 
 <h2>✔ Finished project</h2>
